@@ -160,11 +160,18 @@ public class LoanController : ControllerBase
         return Ok("Estado del pr�stamo actualizado con �xito");
     }
 
-    [HttpPost("loan/request/{userId}")]
-    public async Task<IActionResult> PostLoan([FromRoute] int userId, [FromBody] LoanRequest loanRequest)
+    [HttpPost("loan/request")]
+    public async Task<IActionResult> PostLoan([FromBody] Loan loanRequest)
     {
-        Boolean res = SendRequest.Instance.Send("Hola juan este es el userID: " + userId);
-        return StatusCode(StatusCodes.Status201Created);
+        SendRequest.Instance.Send(loanRequest);
+        string res = ReceiveRequest.Instance.Receive();
+
+        if (res == "201")
+        {
+
+            return StatusCode(StatusCodes.Status201Created);
+        }
+        return StatusCode(StatusCodes.Status500InternalServerError);
     }
 }
 
