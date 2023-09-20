@@ -1,0 +1,53 @@
+[
+    {
+        "Id": 1,
+        "Name": "Personal Loan",
+        "Descripcion": "A flexible loan for various personal expenses",
+        "UserId" :  1
+    },
+    {
+        "Id": 2,
+        "Name": "Home Mortgage",
+        "Descripcion": "Financing to purchase or refinance a home",
+    },
+    {
+        "Id": 3,
+        "Name": "Auto Loan",
+        "Descripcion": "Funding for purchasing a new or used vehicle",
+    },
+    {
+        "Id": 4,
+        "Name": "Business Expansion Loan",
+        "Descripcion": "Capital for growing and expanding a business.",
+    },
+    {
+        "Id": 5,
+        "Name": "Student Loan",
+        "Descripcion": "Financial support for educational expenses.",
+    },
+    {
+        "Id": 6,
+        "Name": "Small Business Loan",
+        "Descripcion": "Financing for small business needs.",
+    },
+    {
+        "Id": 7,
+        "Name": "HELOC",
+        "Descripcion": "A revolving line of credit using home equity.",
+    },
+    {
+        "Id": 8,
+        "Name": "Emergency Loan",
+        "Descripcion": "Quick funds for unexpected expenses.",
+    },
+    {
+        "Id": 9,
+        "Name": "Vacation Loan",
+        "Descripcion": "Funds for a dream vacation or travel adventure.",
+    },
+    {
+        "Id": 10,
+        "Name": "Medical Expense Loan",
+        "Descripcion": "Financial assistance for medical bills and treatments.",
+    }
+]

@@ -1,0 +1,50 @@
+[
+    {
+        "Name": "Préstamos personales",
+        "Description": "Son préstamos que se otorgan a individuos para cualquier propósito, como gastos médicos, viajes o consolidación de deudas."
+    },
+    {
+        "Name": "Préstamos hipotecarios",
+        "Description": "Estos préstamos se utilizan para comprar una vivienda o bienes raíces, y la propiedad se utiliza como garantía."
+    },
+    {
+        "Name": "Préstamos para automóviles",
+        "Description": "Estos préstamos se toman para comprar un vehículo y suelen tener plazos y tasas de interés específicas para la compra de automóviles."
+    },
+    {
+        "Name": "Préstamos estudiantiles",
+        "Description": "Diseñados para financiar la educación superior, estos préstamos ayudan a los estudiantes a pagar matrículas, libros y otros gastos relacionados con la educación."
+    },
+    {
+        "Name": "Líneas de crédito",
+        "Description": "No son préstamos tradicionales, pero permiten a los individuos o empresas acceder a fondos de forma continua dentro de un límite establecido."
+    },
+    {
+        "Name": "Préstamos de consolidación de deudas",
+        "Description": "Se utilizan para combinar varias deudas en una sola, generalmente con tasas de interés más bajas y plazos de pago más largos."
+    },
+    {
+        "Name": "Préstamos garantizados",
+        "Description": "Requieren algún tipo de garantía, como un bien raíz o un activo, para respaldar el préstamo y reducir el riesgo para el prestamista."
+    },
+    {
+        "Name": "Préstamos no garantizados",
+        "Description": "No requieren garantía, pero generalmente tienen tasas de interés más altas debido al mayor riesgo para el prestamista."
+    },
+    {
+        "Name": "Préstamos comerciales",
+        "Description": "Se otorgan a empresas para financiar operaciones, adquisiciones, expansión u otros fines comerciales."
+    },
+    {
+        "Name": "Préstamos de emergencia",
+        "Description": "Estos préstamos se utilizan en situaciones de crisis financiera, como desastres naturales o emergencias médicas."
+    },
+    {
+        "Name": "Préstamos para mejoras en el hogar",
+        "Description": "Se utilizan para financiar proyectos de remodelación, reparaciones o mejoras en una vivienda."
+    },
+    {
+        "Name": "Préstamos para pequeñas empresas",
+        "Description": "Diseñados específicamente para empresarios y propietarios de pequeñas empresas, para financiar operaciones o expansiones comerciales."
+    }
+]
