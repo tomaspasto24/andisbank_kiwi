@@ -624,25 +624,32 @@
     ]
   },
   "packageFolders": {
-    "/Users/tomassilvapastorini/.nuget/packages/": {}
+    "C:\\Users\\juan-\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/tomassilvapastorini/Projects/ANDISBANK_kiwi/ANDISBANK_kiwi/ANDISBANK_kiwi.csproj",
+      "projectUniqueName": "C:\\Users\\juan-\\source\\repos\\tomaspasto24\\andisbank_kiwi\\ANDISBANK_kiwi\\ANDISBANK_kiwi.csproj",
       "projectName": "ANDISBANK_kiwi",
-      "projectPath": "/Users/tomassilvapastorini/Projects/ANDISBANK_kiwi/ANDISBANK_kiwi/ANDISBANK_kiwi.csproj",
-      "packagesPath": "/Users/tomassilvapastorini/.nuget/packages/",
-      "outputPath": "/Users/tomassilvapastorini/Projects/ANDISBANK_kiwi/ANDISBANK_kiwi/obj/",
+      "projectPath": "C:\\Users\\juan-\\source\\repos\\tomaspasto24\\andisbank_kiwi\\ANDISBANK_kiwi\\ANDISBANK_kiwi.csproj",
+      "packagesPath": "C:\\Users\\juan-\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\juan-\\source\\repos\\tomaspasto24\\andisbank_kiwi\\ANDISBANK_kiwi\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "/Users/tomassilvapastorini/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\juan-\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
       ],
       "sources": {
-        "/usr/local/share/dotnet/sdk/7.0.308/Sdks/Microsoft.NET.Sdk.Web/library-packs": {},
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -697,7 +704,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.308/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
       }
     }
   }
